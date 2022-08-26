@@ -49,12 +49,12 @@ export default {
       todos: [
         {
           id: 0,
-          title:  'Tarea pendiente',
+          title:  'Ejemplo de tarea pendiente',
           completed: false
         },
         {
           id: 1,
-          title:  'Tarea completada',
+          title:  'Ejemplo de tarea completada',
           completed: true
         }
       ],
